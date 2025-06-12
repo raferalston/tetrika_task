@@ -10,5 +10,5 @@
 отрезков. Но к сожалению без ИИ знаний хватило только на простой перебор. 
 Решение с использованием ИИ присылать не стал.
 
-[https://github.com/raferalston/cv](cv-file)
-[https://hh.ru/applicant/resumes](hh.ru резюме)
+[cv](https://github.com/raferalston/cv)
+[hh.ru резюме](https://hh.ru/applicant/resumes)
